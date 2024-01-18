@@ -1,0 +1,25 @@
+{
+  "name": "it617-recommended",
+  "displayName": "Recommended Extensions for Android Development",
+  "description": "Recommended Extensions for students taking the IT617 Mobile Application Development course.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crashbash111/it617-recommended.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bierner.markdown-emoji",
+    "bierner.markdown-checkbox",
+    "bierner.markdown-yaml-preamble",
+    "bierner.markdown-footnotes",
+    "bierner.markdown-mermaid",
+    "bierner.markdown-preview-github-styles",
+    "yahyabatulu.vscode-markdown-alert"
+  ]
+}
